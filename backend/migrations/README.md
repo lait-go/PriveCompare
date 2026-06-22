@@ -1,0 +1,3 @@
+-- GORM AutoMigrate используется для создания схемы БД.
+-- Таблицы: users, categories, stores, products, product_prices,
+-- carts, cart_items, orders, order_items
